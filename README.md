@@ -18,4 +18,4 @@ In an [Infoboard.js-file](./scoreboard/src/components/Infoboard.js) I wrote a fu
 
 ### My Version
 
-[my_version](./scoreboard/src/assets/my_version.gif)
+![my_version](./scoreboard/src/assets/my_version.gif)
