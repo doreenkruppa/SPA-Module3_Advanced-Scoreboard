@@ -1,4 +1,4 @@
-# Simple Scoreboard
+# Advanced Scoreboard
 
 ## Exercise Course-Module 3 - Single Page Application (SPA) - HTML/CSS/JavaScript/React.js
 
