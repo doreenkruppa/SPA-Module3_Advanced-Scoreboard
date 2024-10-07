@@ -4,7 +4,7 @@
 
 created at 07.03.23;
 
-Created a Scoreboard React App oriented to the Mockup by using different components and React Hooks `useState` and `useContext`.
+Created a Scoreboard React.js App oriented to the Mockup by using different components and React Hooks `useState` and `useContext`.
 In an [ScoreContext.js-file](./scoreboard/src/context/ScoreContext.js) I declared a state variable called 'score' with an initial value of 0, and wrote two functions:
 `plusScore(): score + 10`,
 `minusScore(): score - 10`
